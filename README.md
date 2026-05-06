@@ -7,13 +7,11 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 **Currently studying** at Newton School of Technology (First Year)
-- 📍 **From** Bareilly, Uttar Pradesh
-- 💻 **Learning** Python, HTML, CSS, and JavaScript
+- 💻 **Learning** DSA + MERN-stack
 - 🌱 **Growing** my skills in full-stack development
-- 🤝 **Looking to collaborate** on web development projects, especially with DCODE
+- 🤝 **Looking to collaborate** on web development projects and freelancing
 - 🔍 **Seeking mentorship** from experienced developers to guide my journey
 - 🎯 **Passionate** about achieving goals and family-oriented
-- 🧘 **Fun Fact**: I'm an introvert who thrives working independently!
 
 ---
 
